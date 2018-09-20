@@ -1,2 +1,2 @@
-# Never-ending-journey
-A little game based on D&amp;D. You only need a Console (integrated in Windows). It ONLY works on Windows
+# Unendliche Reise
+Ein kleines Game, welches auf D&D basiert. Es ist komplett auf Deutsch und funktioniert nur auf Windows in der Konsole!
